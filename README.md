@@ -1,55 +1,20 @@
-# README Template
+# 📚 Software Engineering for Data Scientists  
+**Final Project – Recommendation System on IBM Watson Platform**
 
-Below is a template provided for use when building your README file for students.
+This repository contains the final project for the *Software Engineering for Data Scientists* course. The goal of the project is to build a recommendation system using real user interaction data from the IBM Watson Studio platform.
 
-# Project Title
+---
 
-Project description goes here.
+## 🚀 Project Overview
 
-## Getting Started
+In this project, I analyzed interactions between users and articles on the IBM Watson platform. Based on the insights, I built a recommendation engine to suggest relevant articles to users. The project explores several recommendation techniques, including rank-based, collaborative filtering, content-based methods, and matrix factorization.
 
-Instructions for how to get a copy of the project running on your local machine.
+---
 
-### Dependencies
+## 📂 Getting Started
 
-```
-Examples here
-```
+> ⚠️ Note: This project was developed directly in **Jupyter Notebook** without a virtual environment.
 
-### Installation
-
-Step by step explanation of how to get a dev environment running.
-
-List out the steps
-
-```
-Give an example here
-```
-
-## Testing
-
-Explain the steps needed to run any automated tests
-
-### Break Down Tests
-
-Explain what each test does and why
-
-```
-Examples here
-```
-
-## Project Instructions
-
-This section should contain all the student deliverables for this project.
-
-## Built With
-
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
-
-Include all items used to build project.
-
-## License
-
-[License](LICENSE.txt)
+To get started, simply open the notebook file:  
+```bash
+Recommendations_with_IBM.ipynb
